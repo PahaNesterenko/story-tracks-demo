@@ -1,4 +1,4 @@
-package com.no.company.storytracksdemo.dao;
+package com.no.company.storytracksdemo.repository;
 
 import com.no.company.storytracksdemo.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;

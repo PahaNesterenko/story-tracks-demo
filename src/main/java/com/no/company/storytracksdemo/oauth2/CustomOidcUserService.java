@@ -1,6 +1,6 @@
 package com.no.company.storytracksdemo.oauth2;
 
-import com.no.company.storytracksdemo.dao.UserRepository;
+import com.no.company.storytracksdemo.repository.UserRepository;
 import com.no.company.storytracksdemo.dto.GoogleOAuth2UserInfo;
 import com.no.company.storytracksdemo.model.User;
 import com.no.company.storytracksdemo.model.UserType;

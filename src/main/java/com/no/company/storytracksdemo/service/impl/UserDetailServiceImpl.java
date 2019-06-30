@@ -1,6 +1,6 @@
 package com.no.company.storytracksdemo.service.impl;
 
-import com.no.company.storytracksdemo.dao.UserRepository;
+import com.no.company.storytracksdemo.repository.UserRepository;
 import com.no.company.storytracksdemo.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
